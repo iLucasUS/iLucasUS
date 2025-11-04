@@ -55,6 +55,7 @@
 
 <br/>
 <br/>
+---
 
 ### 📊 Estatísticas (incluindo repositórios privados)
 
